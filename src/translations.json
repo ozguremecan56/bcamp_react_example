@@ -1,0 +1,8 @@
+{
+  "tr": {
+    "welcome": "Hosgeldiniz",
+    "logout": "Cikis",
+    "vat_info": "Welcome to Turkey, all prices have been included VAT."
+  },
+  "en": { "welcome": "Welcome", "logout": "Logout" }
+}

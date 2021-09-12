@@ -1,0 +1,9 @@
+{
+  "tr": {
+    "SHOW_VAT_TEXT": true
+  },
+  "en": {
+    "SHOW_VAT_TEXT": false
+  },
+  "de": {}
+}
